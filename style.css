@@ -1,0 +1,84 @@
+table {
+    margin: auto;
+    width: 70%;
+    height: 60%;
+    border-collapse: collapse;
+}
+ 
+td {
+    height: 2cm;
+    width: 2cm;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kov1 {
+    
+}
+.kov2 {
+
+}
+.kov3 {
+
+}
+.kov4 {
+
+}
+.kov5 {
+
+}
+.kov6 {
+
+}
+.kov7 {
+
+}
+.kov8 {
+
+}
+.invis {
+    border-color: white;
+}
+.zluta {
+    background-color: yellow;
+    border: 3px solid black;
+}
+.red {
+    background-color: red;
+    border: 3px solid black;
+}
+.blue {
+    background-color: blue;
+    border: 3px solid black;
+}
+.green {
+    background-color: lightgreen;
+    border: 3px solid black;
+}
+.lightblue {
+    background-color: lightskyblue;
+    border: 3px solid black;
+}
+.orange {
+    background-color: orange;
+    border: 3px solid black;
+}
+.aqua {
+    background-color: aqua;
+    border: 3px solid black;
+}
+.purple {
+    background-color: plum;
+    border: 3px solid black;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+.lanthanoidy {
+    border: 3px solid black;
+}
+.aktinoidy {
+    border: 3px solid black;
+}

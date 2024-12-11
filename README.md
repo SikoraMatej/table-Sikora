@@ -1,1 +1,1 @@
-# tabulka-Sikora
+# table-Sikora
